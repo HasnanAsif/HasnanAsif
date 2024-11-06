@@ -8,7 +8,7 @@
 
 Welcome to my GitHub portfolio, I am an aspiring developer with a passion to build and create to solve real world problems.
 
----
+--- 
 
 ### A bit about me.
 - 💻 Currently studying **Software Engineering** at **McMaster University** where I am solidifying hard skills and learning to build robust and scalable applications
