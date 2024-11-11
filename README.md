@@ -14,7 +14,10 @@ Welcome to my GitHub portfolio, I am an aspiring developer with a passion to bui
 - 💻 Currently studying **Software Engineering** at **McMaster University** where I am solidifying hard skills and learning to build robust and scalable applications
 - 📚 I'm committed to continuously learning about emerging technologies to stay current in the rapidly evolving tech field, enabling me to bring innovative solutions to every project
 - 🔭 I enjoy engineering **utility projects** & solutions to problems with innovative technologies, currently focusing on some full-stack projects..
-- 
+
+### Currently working on
+- Job Application Tracker
+  - (HTML/CSS/JS) - PostGreSQL, Express, React and Node.
 
 
 ---
